@@ -4908,6 +4908,14 @@ a:visited {
     background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/wb-learn-headshot-sm.jpg");
 }
 
+#carlota-bindner-cover {
+  background-image: url("http://i.imgur.com/I1MLzLz.jpg");
+}
+
+#carlota-bindner-card {
+  background-image: url("http://i.imgur.com/R9jzB9F.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
